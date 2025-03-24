@@ -37,7 +37,7 @@ A Laravel 9 application that allows users to connect their YouTube and Facebook 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/livestream-manager.git
+git clone https://github.com/Schrodinger0/livestream-manager.git
 cd livestream-manager
 ```
 
