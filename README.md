@@ -181,14 +181,3 @@ livestream-manager/
 - [Google API Client](https://github.com/googleapis/google-api-php-client)
 - [GuzzleHTTP](https://docs.guzzlephp.org/en/stable/)
 
-## License
-
-This project is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
-## Support
-
-For support or questions, please open an issue in the GitHub repository.
